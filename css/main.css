@@ -1,3 +1,5 @@
+/* these all apply to the body element -> global rules */
+
 * {
     border: none;
     padding: 0;
@@ -14,8 +16,6 @@ body {
   background-color: black;
   color: white;
   background-image: url('../images/denim.png');
-<<<<<<< Updated upstream
-=======
 }
 
 /* main header rules */
@@ -61,6 +61,7 @@ article p{
     text-align: center;
     margin: 0 auto;
 }
+
 .sprite {
     width: 150px;
     height: 150px;
@@ -91,7 +92,6 @@ article p{
 }
 
 
-
 /*footer rules here */
 footer{
     color: white;
@@ -105,5 +105,5 @@ footer{
     top: 100%;
     height: 80px;
     background-color: rgb(40, 37, 37);
->>>>>>> Stashed changes
+
 }
