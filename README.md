@@ -1,6 +1,16 @@
-# Marvel Character Bio Build
+<snippet>
+  <content><![CDATA[
+# ${1:Project Name}
 
-All about MArvel's character lineup. Choose a character to explore!
+TODO: Write a project description
+
+## Installation
+
+TODO: Describe the installation process
+
+## Usage
+
+All about Marvel's character lineup. Choose a character to explore!
 
 ## Contributing
 
@@ -10,11 +20,13 @@ All about MArvel's character lineup. Choose a character to explore!
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
+## History
 
+TODO: Write history
 ## Credits
-
 TODO: Write credits
-
 ## License
-
-MIT
+TODO: Write license
+]]></content>
+  <tabTrigger>readme</tabTrigger>
+</snippet>
